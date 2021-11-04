@@ -11,7 +11,6 @@ import requests
 import time
 import runpy
 import csv
-import pandas as pd
 import multiprocessing
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
